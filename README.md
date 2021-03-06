@@ -2,7 +2,7 @@
 
 This repository contains an Android App of a simulate to demonsrate how the capability access control works.
 
-The apk pakage will be alvailable here some day. It can be downloaded and install on your Android phone.
+The apk pakage will be alvailable here some day. It can be downloaded and installed on your Android phone.
 
 
 
