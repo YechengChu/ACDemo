@@ -6,5 +6,5 @@ The apk pakage will be alvailable here some day. It can be downloaded and instal
 
 
 
-<div align=center><img src="images/main_page.png"/></div>
+<div align=center><img src="images/main_page.png" width="421" height="748"/></div>
 
