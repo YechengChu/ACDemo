@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# :closed_lock_with_key: AC Demo
 
-You can use the [editor on GitHub](https://github.com/YechengChu/ACDemo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This repository contains an Android App :iphone: of a simulator to demonsrate how the capability based access control works.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+~~The apk pakage :package: will be available here some day.~~ An incomplete version of the app is available now! It can be downloaded and installed on your Android phone.
 
-### Markdown
+### The apk pakage is now available :tada:! Click [here](https://github.com/YechengChu/ACDemo/raw/master/ACDemo.apk) to download!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### :warning: Note: The app is still under development, the Quiz part :pencil: has not been implemented yet!
 
-```markdown
-Syntax highlighted code block
+<div align=center><img src="images/main_page.png" width="388" height="689"/></div>
 
-# Header 1
-## Header 2
-### Header 3
+### :eyes: Here are some demo images of this app 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YechengChu/ACDemo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<div align=center><img src="images/demo_img.png"/></div>
