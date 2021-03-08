@@ -8,8 +8,6 @@
 
 ### Note: The app is still under development, the Quiz part has not been implemented yet!
 
-    
-
 <div align=center><img src="images/main_page.png" width="388" height="689"/></div>
 
 ---
