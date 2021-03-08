@@ -1,8 +1,8 @@
-# :closed_lock_with_key: AC Demo
+# :closed_lock_with_key: Access Control Demo
 
-This repository contains an Android App :iphone: of a simulator to demonsrate how the capability based access control works.
+- This repository contains an __Android App__ :iphone: of a simulator to demonsrate how the capability based access control works.
 
-~~The apk pakage :package: will be available here some day.~~ An incomplete version of the app is available now! It can be downloaded and installed on your Android phone.
+- ~~The apk pakage :package: will be available here some day.~~ An __incomplete__ version of the app is available now! It can be downloaded and installed on your Android phone.
 
 ### The apk pakage is now available :tada:! Click [here](https://github.com/YechengChu/ACDemo/raw/master/ACDemo.apk) to download!
 
