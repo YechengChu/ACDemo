@@ -1,4 +1,4 @@
-# :closed_lock_with_key: Access Control Demo
+# Access Control Demo
 
 - This repository contains an __Android App__ :iphone: of a simulator to demonsrate how the capability based access control works.
 
