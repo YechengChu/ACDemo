@@ -4,6 +4,8 @@
 
 - An __incomplete__ version of the app :eyes: is available now! It can be downloaded and installed on your Android phone!
 
+- Test
+
 ### The apk pakage is now available! [Click here to download!](https://github.com/YechengChu/ACDemo/raw/master/ACDemo.apk)
 
 ### Note: The app is still under development, the Quiz part has not been implemented yet!
