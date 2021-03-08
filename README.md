@@ -4,7 +4,7 @@
 
 - ~~The apk pakage :package: will be available here some day.~~ An __incomplete__ version of the app is available now! It can be downloaded and installed on your Android phone.
 
-### The apk pakage is now available :tada:! Click [here](https://github.com/YechengChu/ACDemo/raw/master/ACDemo.apk) to download!
+### The apk pakage is now available :tada:! [Click here to download!](https://github.com/YechengChu/ACDemo/raw/master/ACDemo.apk)
 
 ### :warning: Note: The app is still under development, the Quiz part :pencil: has not been implemented yet!
 
