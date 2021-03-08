@@ -9,3 +9,7 @@ The apk pakage :package: will be available here some day. It can be downloaded a
 ### :warning: Note: The app is still under development, the Quiz part :pencil: has not been implemented yet!
 
 <div align=center><img src="images/main_page.png" width="388" height="689"/></div>
+
+
+
+<div align=center><img src="images/demo_img.png"/></div>
