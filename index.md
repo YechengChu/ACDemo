@@ -1,8 +1,8 @@
 # Access Control Demo
 
-This repository contains an Android App of a simulator to demonsrate how the capability based access control works.
+- This repository contains an Android App of a simulator to demonsrate how the capability based access control works.
 
-An incomplete version of the app is available now! It can be downloaded and installed on your Android phone!
+- An __incomplete__ version of the app is available now! It can be downloaded and installed on your Android phone!
 
 ### The apk pakage is now available! [Click here to download!](https://github.com/YechengChu/ACDemo/raw/master/ACDemo.apk)
 
