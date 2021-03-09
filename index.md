@@ -8,6 +8,8 @@
 
 ### :warning: Note: The app is still under development, the Quiz part :pencil: has not been implemented yet!
 
+### New an [issue](https://github.com/YechengChu/ACDemo/issues/new) on the GitHub or [email](yecheng.chu@student.manchester.ac.uk) me if you have any suggestion for this app!
+
 <div align=center><img src="images/main_page.png" width="388" height="689"/></div>
 
 ### :eyes: Click [here](./FuncOverview.html) to see an overview of the functionality in the app.
