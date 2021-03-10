@@ -56,11 +56,11 @@
 - leave
 
 #### Servant
-- enter (with cap)
+- enter _(with cap)_
 - leave
 
 #### Friend
-- enter (with cap)
+- enter _(with cap)_
 - leave
 
 ## Level 03
@@ -77,11 +77,11 @@
 - leave
 
 #### Servant
-- enter (with cap)
+- enter _(with cap)_
 - leave
 
 #### Friend
-- enter (with cap)
+- enter _(with cap)_
 - leave
 
 ### Bank
