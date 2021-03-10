@@ -14,6 +14,8 @@
 
 ### Help
 
+### Functionality
+
 ### Learn
 
 ### Reset
@@ -27,14 +29,17 @@
 ### House
 
 #### Owner
+- __enter__
 - __whitelist__
 - __blacklist__
 - __leave__
 
 #### Servant
+- __enter _(with cap)___
 - __leave__
 
 #### Friend
+- __enter _(with cap)___
 - __leave__
 
 ## Level 02
@@ -42,6 +47,7 @@
 ### House
 
 #### Owner
+- enter
 - whitelist
 - blacklist
 - __issue capability__
@@ -50,9 +56,11 @@
 - leave
 
 #### Servant
+- enter (with cap)
 - leave
 
 #### Friend
+- enter (with cap)
 - leave
 
 ## Level 03
@@ -60,6 +68,7 @@
 ### House
 
 #### Owner
+- enter
 - whitelist
 - blacklist
 - issue capability
@@ -68,9 +77,11 @@
 - leave
 
 #### Servant
+- enter (with cap)
 - leave
 
 #### Friend
+- enter (with cap)
 - leave
 
 ### Bank
@@ -83,6 +94,8 @@
   - __number of times__
   - __time period__
 - __revoke delegation__
+  - __revoke one__
+  - __revoke all__
 
 #### Servant
 - __open account__
@@ -92,6 +105,8 @@
   - __number of times__
   - __time period__
 - __revoke delegation__
+  - __revoke one__
+  - __revoke all__
 
 #### Friend
 - __open account__
@@ -101,3 +116,5 @@
   - __number of times__
   - __time period__
 - __revoke delegation__
+  - __revoke one__
+  - __revoke all__
