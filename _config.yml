@@ -1,10 +1,4 @@
 theme: jekyll-theme-cayman
 title: AC Demo
-buttons:
-  zip_url: https://github.com/YechengChu/ACDemo/raw/master/ACDemo.apk
-  zip_title: Download app
-  zip_hide: false
-  tar_hide: true
-  github_hide: false
 plugins:
   - jemoji
