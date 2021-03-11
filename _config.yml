@@ -1,5 +1,4 @@
 theme: jekyll-theme-cayman
-remote_theme: tuur29/pages-themes-cayman
 title: AC Demo
 buttons:
   zip_url: https://github.com/YechengChu/ACDemo/raw/master/ACDemo.apk
