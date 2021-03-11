@@ -1,3 +1,3 @@
-### Functionality Overview Test New
+### Functionality Overview
 
 {% include iframe_home.html %}
