@@ -1,3 +1,3 @@
-### Functionality Overview T
+### Functionality Overview
 
 {% include iframe_home.html %}
