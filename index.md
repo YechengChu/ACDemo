@@ -12,7 +12,7 @@
 
 <div align=center><img src="images/main_page.png" width="388" height="689"/></div>
 
-### :eyes: Click [here](./FuncOverview.html) to see an overview of the functionality in the app.
+### :eyes: Click [here](./func.html) to see an overview of the functionality in the app.
 
 ### :eyes: Here are some demo images of this app 
 
