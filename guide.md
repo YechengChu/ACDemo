@@ -3,11 +3,27 @@
 ## Table of Contents
 - [Overview](#overview)
   - [Main Page More](#main-page-more)
+    - [About](#about)
+    - [Help](#help)
+    - [Functionality](#functionality)
+    - [Learn](#learn)
+    - [Reset](#reset)
+    - [Share](#share)
   - [The Scene](#the-scene)
+    - [People](#people)
+    - [Buildings](#buildings)
+    - [Levels](#levels)
 - [Quiz](#quiz)
 - [Level 01](#level-01)
   - [Functionality Introduction](#functionality-introduction)
+    - [Capability overview](#capability-overview)
+    - [Role](#role)
+    - [House](#house)
+    - [Bank](#bank)
   - [House Feature](#house-feature)
+    - [Blacklist](#blacklist)
+    - [Whitelist](#whitelist)
+    - [Note](#note)
 - [Level 02](#level-02)
   - [Notice](#notice)
   - [Issue House Capability](#issue-house-capability)
@@ -17,7 +33,7 @@
   - [View owner account & View servant account & View friend account](#view-owner-account--view-servant-account--view-friend-account)
   - [Delegate my account](#delegate-my-account)
   - [Revoke delegation](#revoke-delegation)
-- [Have Fun](#have_fun)
+- [Have Fun](#have-fun)
 
 ## Overview
 This app is a simulator to demonstrate how capability based access control works.
@@ -28,21 +44,31 @@ In the top right of the main page, you can click "__...__" to view more options,
 #### About
 Briefly introduces some information about this app.
 
+[Back to Top](#top)
+
 #### Help
 Introduces the functionality of this app.
 
 You can always get to the "__Help__" page through the main page by clicking the "__...__" icon and then select the "__Help__" option!
 
-To view an _online version_ of the help page, click "__...__" and select "__Online Version__"
+To view an _online version_ of the help page, click "__...__" and select "__Online Version__".
+
+[Back to Top](#top)
 
 #### Functionality
 Provides an overview of the functionality of this app, you are strongly recommended to have a look after reading this "__Help__" page.
 
+[Back to Top](#top)
+
 #### Learn
 Gives a short introduction of how you can achieve some capability concepts using this app.
 
+[Back to Top](#top)
+
 #### Reset
 Reset the demo, clear all the data and progresses.
+
+[Back to Top](#top)
 
 #### Share
 Share this app by sending a text message containing the [website](https://yechengchu.github.io/ACDemo/) where this app can be downloaded and installed on an Android phone.
@@ -52,17 +78,21 @@ Share this app by sending a text message containing the [website](https://yechen
 ### The Scene
 There are _three_ people and _two_ buildings in the scene.
 
-#### The three people are
+#### People
 - __[Owner]__: the owner of the house
 - __[Servant]__: the servant of the __[Owner]__
 - __[Friend]__: the friend of the __[Owner]__
 
-#### The two buildings are
+[Back to Top](#top)
+
+#### Buildings
 - __House__ :house:: the Owner's house
 
 - __Bank__ :bank:: the bank where people could do some basic services such as open an account, delegate the account access and view the account
 
-#### Note
+[Back to Top](#top)
+
+#### Levels
 There are _three_ levels in this app and you can progress through answering quiz questions.
 
 The higher the level, the more features will be unblocked.
@@ -105,11 +135,17 @@ There are _three_ types of capabilities:
 
 3. the time period capability by the word "_period_", which mean the person can have that capability within a given time period
 
+[Back to Top](#top)
+
 #### Role
 You can switch your role, in default, the role is set to be the __[Owner]__.
 
+[Back to Top](#top)
+
 #### House
 You can click the house image, if you have the capability to enter the house, you will directly enter the house.
+
+[Back to Top](#top)
 
 #### Bank
 Go to the bank by clicking the bank image, however it's currently blocked, you will need to reach _Level 03_ to unblock this feature.
@@ -126,12 +162,16 @@ As the __[Owner]__, you can decide the person to be added into the blacklist, th
 
 You can also find "__blacklist__" option when you select "__...__" on top right of the house page.
 
+[Back to Top](#top)
+
 #### Whitelist
 When you put the person in whitelist as the __[Owner]__, the person would have infinite house capability.
 
 When you put a person in the whitelist you could also choose where to allow the person _further delegates_ your house capability.
 
 You can also find "__whitelist__" option when you select "__...__" on top right of the house page.
+
+[Back to Top](#top)
 
 #### Note
 One person can not be in the white and black list spontaneously!
@@ -211,7 +251,7 @@ There are _two_ modes to revoke the delegation
 [Back to Top](#top)
 
 ## Have fun
-And that's it! That is basic all the functionality of this app, thanks for reading! :dizzy:
+And that's it! :dizzy: That is basic all the functionality of this app, thanks for reading!
 
 Wish you like this app and have fun exploring it! :smile:
 
