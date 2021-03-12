@@ -12,6 +12,12 @@
   - [Notice](#notice)
   - [Issue House Capability](#issue-house-capability)
   - [Revoke House Capability](#revoke-house-capability)
+- [Level 03](#level-03)
+  - [Open account & Delete account](#open-account-&-delete-account)
+  - [View owner account & View servant account & View friend account](#view-owner-account-&-view-servant-account-&-view-friend-account)
+  - [Delegate my account](#delegate-my-account)
+  - [Revoke delegation](#revoke-delegation)
+- [Have Fun](#have_fun)
 
 ## Overview
 This app is a simulate to demonstrate how capability based access control works.
@@ -20,12 +26,14 @@ This app is a simulate to demonstrate how capability based access control works.
 In the top right of the main page, you can click "__...__" to view more options, here are some of the options you might want to know:
 
 #### About
-Briefly introduces some information about this app
+Briefly introduces some information about this app.
 
 #### Help
 Introduces the functionality of this app.
 
-You can always get to the "__Help__" page through the main page by clicking the "__...__" icon and then select the "Help" option!
+You can always get to the "__Help__" page through the main page by clicking the "__...__" icon and then select the "__Help__" option!
+
+To view an _online version_ of the help page, click "__...__" and select "__Online Version__"
 
 #### Functionality
 Provides an overview of the functionality of this app, you are strongly recommended to have a look after reading this "__Help__" page.
@@ -91,11 +99,11 @@ The capability is shown like this, for example _"house (infinite)"_ means one pe
 
 There are _three_ types of capabilities:
 
-1. infinite capability by the word "infinite"
+1. infinite capability by the word "_infinite_"
 
 2. the number of capabilities shown by a number, which specifies the number of times the person can use this capability
 
-3. the time period capability by the word "period", which mean the person can have that capability within a given time period
+3. the time period capability by the word "_period_", which mean the person can have that capability within a given time period
 
 #### Role
 You can switch your role, in default, the role is set to be the __[Owner]__.
@@ -126,7 +134,8 @@ When you put a person in the whitelist you could also choose where to allow the 
 You can also find "__whitelist__" option when you select "__...__" on top right of the house page.
 
 #### Note
-One person can not be in the white and black list spontaneously
+One person can not be in the white and black list spontaneously!
+
 [Back to Top](#top)
 
 ## Level 02
@@ -135,7 +144,7 @@ The __capability issuing__ for house is unblocked!
 ### Notice
 Note that, from now on, the "__blacklist__" and "__whitelist__" options can only been view when select "__...__" on top right of the house page!
 
-Their functionality remains the same, the only change is that the previous two buttons will no longer appear at the house page.
+Their functionality remains the same, the only change is that, the previous two buttons will no longer appear at the house page.
 
 [Back to Top](#top)
 
@@ -146,7 +155,7 @@ There are two types of capability you can issue: capability by _number of times_
 
 __Note__
 
-1. for the demonstrate purpose, there are limits for you to set the capabilities, for example the maximum time capability issued is 120 seconds
+1. for the demonstrate purpose, there are limits for you to set the capabilities, for example the maximum time capability issued is _120_ seconds
 
 2. the person who received that capability should in neither black nor white list
 
@@ -155,3 +164,55 @@ __Note__
 [Back to Top](#top)
 
 ### Revoke House Capability
+Of course, as the __[Owner]__, you can revoke all the capabilities issued no matter by yourself or by other users.
+
+By clicking "__revoke all__" button, all the issued capabilities except those issued using whitelist will be removed.
+
+Note that, for those people in the whitelist, you have to remove them in the "__whitelist__" page!
+
+[Back to Top](#top)
+
+## Level 03
+
+The __bank__ feature is unblocked!
+
+Congratulations! You unblocked all the features in this app!
+
+There are seven buttons which you can use inside the bank page, their functionality will be introduced in this section.
+
+### Open account & Delete account
+Each person can open or delete his bank account by clicking these two buttons.
+
+[Back to Top](#top)
+
+### View owner account & View servant account & View friend account
+Three buttons to view user accounts.
+
+If the user does not have an account, it will show some random data indicating the resources is __NOT__ protected.
+
+If the user has an account, you will need corresponding capability to view his account.
+
+[Back to Top](#top)
+
+### Delegate my account
+The owner of the account can delegate the capability to view his account to other people
+
+This is similar to the issue capability in the _Level 02_ feature, and you will find that they have the same layout.
+
+[Back to Top](#top)
+
+### Revoke delegation
+There are two modes to revoke the delegation
+
+1. revoke all the delegations the owner of the account issued (_default_)
+
+2. revoke one specific delegation by selecting a specific person
+
+[Back to Top](#top)
+
+## Have fun
+And that's it! That is basic all the functionality of this app, thanks for reading!
+
+Wish you like this app and have fun exploring it!
+
+[Back to Top](#top)
