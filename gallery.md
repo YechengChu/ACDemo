@@ -1,4 +1,4 @@
-## Image Gallery
+# Image Gallery
 
 Here are some demo images of my app
 
