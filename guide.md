@@ -6,15 +6,15 @@
   - [The Scene](#the-scene)
 - [Quiz](#quiz)
 - [Level 01](#level-01)
-  - [Functionality Introduction](#functionality_introduction)
-  - [House Feature](#house_feature)
+  - [Functionality Introduction](#functionality-introduction)
+  - [House Feature](#house-feature)
 - [Level 02](#level-02)
   - [Notice](#notice)
   - [Issue House Capability](#issue-house-capability)
   - [Revoke House Capability](#revoke-house-capability)
 - [Level 03](#level-03)
-  - [Open account & Delete account](#open-account-&-delete-account)
-  - [View owner account & View servant account & View friend account](#view-owner-account-&-view-servant-account-&-view-friend-account)
+  - [Open account & Delete account](#open-account--delete-account)
+  - [View owner account & View servant account & View friend account](#view-owner-account--view-servant-account--view-friend-account)
   - [Delegate my account](#delegate-my-account)
   - [Revoke delegation](#revoke-delegation)
 - [Have Fun](#have_fun)
@@ -45,12 +45,12 @@ Gives a short introduction of how you can achieve some capability concepts using
 Reset the demo, clear all the data and progresses.
 
 #### Share
-Share this app by sending a text message containing the website where this app can be downloaded and installed on an Android phone.
+Share this app by sending a text message containing the [website](https://yechengchu.github.io/ACDemo/) where this app can be downloaded and installed on an Android phone.
 
 [Back to Top](#top)
 
 ### The Scene
-There are three people and two buildings in the scene.
+There are _three_ people and _two_ buildings in the scene.
 
 #### The three people are
 - __[Owner]__: the owner of the house
@@ -58,19 +58,19 @@ There are three people and two buildings in the scene.
 - __[Friend]__: the friend of the __[Owner]__
 
 #### The two buildings are
-- __House__: the Owner's house
+- __House__​ :house:: the Owner's house
 
-- __Bank__: the bank where people could do some basic services such as open an account, delegate the account access and view the account
+- __Bank__ :bank:: the bank where people could do some basic services such as open an account, delegate the account access and view the account
 
 #### Note
-There are three levels in this app and you can progress through answering quiz questions.
+There are _three_ levels in this app and you can progress through answering quiz questions.
 
 The higher the level, the more features will be unblocked.
 
 [Back to Top](#top)
 
 ## Quiz
-By clicking the __quiz image__ in the main page, you would enter the quiz page.
+By clicking the __quiz image__ :pencil: in the main page, you would enter the quiz page.
 
 There are _5_ quiz questions in total and you can only progress to next question when you have answered the current one.
 
@@ -176,9 +176,9 @@ Note that, for those people in the whitelist, you have to remove them in the "__
 
 The __bank__ feature is unblocked!
 
-Congratulations! You unblocked all the features in this app!
+Congratulations! :tada: You unblocked all the features in this app!
 
-There are seven buttons which you can use inside the bank page, their functionality will be introduced in this section.
+There are _seven_ buttons which you can use inside the bank page, their functionality will be introduced in this section.
 
 ### Open account & Delete account
 Each person can open or delete his bank account by clicking these two buttons.
@@ -213,6 +213,6 @@ There are two modes to revoke the delegation
 ## Have fun
 And that's it! That is basic all the functionality of this app, thanks for reading!
 
-Wish you like this app and have fun exploring it!
+Wish you like this app and have fun exploring it! :smile:
 
 [Back to Top](#top)
