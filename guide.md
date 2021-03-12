@@ -58,7 +58,7 @@ There are _three_ people and _two_ buildings in the scene.
 - __[Friend]__: the friend of the __[Owner]__
 
 #### The two buildings are
-- __House__​ :house:: the Owner's house
+- __House__ :house:: the Owner's house
 
 - __Bank__ :bank:: the bank where people could do some basic services such as open an account, delegate the account access and view the account
 
@@ -195,7 +195,7 @@ If the user has an account, you will need corresponding capability to view his a
 [Back to Top](#top)
 
 ### Delegate my account
-The owner of the account can delegate the capability to view his account to other people
+The owner of the account can delegate the capability to view his account to other people.
 
 This is similar to the issue capability in the _Level 02_ feature, and you will find that they have the same layout.
 
