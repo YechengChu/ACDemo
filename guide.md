@@ -108,9 +108,9 @@ By giving the correct answer, you can get _20_ points for each question, otherwi
 
 Each question can only be answered __ONCE__.
 
-- _Level 01_: the level you initially in
-- _Level 02_: get _20_ points (get _1_ correct answer)
-- _Level 03_: get _60_ points (answer _3_ questions correctly)
+- _Level 01_ : the level you initially in
+- _Level 02_ : get _20_ points (get _1_ correct answer)
+- _Level 03_ : get _60_ points (answer _3_ questions correctly)
 
 [Back to Top](#top)
 
@@ -125,15 +125,15 @@ Shows the capabilities of all the _three_ persons.
 
 If you want to see the individual capabilities, you can click each person's image.
 
-The capability is shown like this, for example _"house (infinite)"_ means one person has _infinite_ capability of entering the _House_.
+The capability is shown like this, for example _house (infinite)_ means one person has _infinite_ capability of entering the _House_.
 
 There are _three_ types of capabilities:
 
-1. infinite capability by the word "_infinite_"
+1. infinite capability by the word _infinite_
 
 2. the number of capabilities shown by a number, which specifies the number of times the person can use this capability
 
-3. the time period capability by the word "_period_", which mean the person can have that capability within a given time period
+3. the time period capability by the word _period_, which mean the person can have that capability within a given time period
 
 [Back to Top](#top)
 
@@ -244,7 +244,7 @@ This is similar to the issue capability in the _Level 02_ feature, and you will 
 ### Revoke delegation
 There are _two_ modes to revoke the delegation
 
-1. revoke all the delegations the owner of the account issued (_default_)
+1. revoke all the delegations the owner of the account issued _(default)_
 
 2. revoke one specific delegation by selecting a specific person
 
