@@ -11,9 +11,3 @@
 ### New an [issue](https://github.com/YechengChu/ACDemo/issues/new) on the GitHub or [email](mailto:yecheng.chu@student.manchester.ac.uk) me if you have any suggestion for this app!
 
 <div align=center><img src="images/main_page.png" width="388" height="689"/></div>
-
-### :eyes: Click [here](./func) to see an overview of the functionality in the app.
-
-### :eyes: Here are some demo images of this app
-
-<div align=center><img src="images/demo_img.png"/></div>
