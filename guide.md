@@ -143,12 +143,12 @@ You can switch your role, in default, the role is set to be the __[Owner]__.
 [Back to Top](#top)
 
 #### House
-You can click the house image, if you have the capability to enter the house, you will directly enter the house.
+You can click the __house image__, if you have the capability to enter the house, you will directly enter the house.
 
 [Back to Top](#top)
 
 #### Bank
-Go to the bank by clicking the bank image, however it's currently blocked, you will need to reach _Level 03_ to unblock this feature.
+Go to the bank by clicking the __bank image__, however it's currently blocked, you will need to reach _Level 03_ to unblock this feature.
 
 [Back to Top](#top)
 
