@@ -74,24 +74,24 @@ By clicking the __quiz image__ :pencil: in the main page, you would enter the qu
 
 There are _5_ quiz questions in total and you can only progress to next question when you have answered the current one.
 
-By giving the correct answer, you can get _20_ points for each question, otherwise you get 0.
+By giving the correct answer, you can get _20_ points for each question, otherwise you get _0_.
 
 Each question can only be answered __ONCE__.
 
 - _Level 01_: the level you initially in
-- _Level 02_: get 20 points (get 1 correct answer)
-- _Level 03_: get 60 points (answer 3 questions correctly)
+- _Level 02_: get _20_ points (get _1_ correct answer)
+- _Level 03_: get _60_ points (answer _3_ questions correctly)
 
 [Back to Top](#top)
 
 ## Level 01
-In Level 01, the feature unblocked is the __House__.
+In _Level 01_, the feature unblocked is the __House__.
 
 ### Functionality Introduction
 There are few buttons you may want to know in the main page:
 
 #### Capability overview
-Shows the capabilities of all the three persons.
+Shows the capabilities of all the _three_ persons.
 
 If you want to see the individual capabilities, you can click each person's image.
 
@@ -119,7 +119,7 @@ Go to the bank by clicking the bank image, however it's currently blocked, you w
 ### House Feature
 Once you enter the house, you can leave it by clicking the "__leave__" button.
 
-Note that the Blacklist and Whitelist button can only be used by the __[Owner]__ and the "issue capability" function will be unblocked in _next level_.
+Note that the Blacklist and Whitelist button can only be used by the __[Owner]__ and the "__issue capability__" function will be unblocked in _next level_.
 
 #### Blacklist
 As the __[Owner]__, you can decide the person to be added into the blacklist, the person in the blacklist will have all their house capability removed.
@@ -144,7 +144,7 @@ The __capability issuing__ for house is unblocked!
 ### Notice
 Note that, from now on, the "__blacklist__" and "__whitelist__" options can only been view when select "__...__" on top right of the house page!
 
-Their functionality remains the same, the only change is that, the previous two buttons will no longer appear at the house page.
+Their functionality remains the same, the only change is that, the previous _two_ buttons will no longer appear at the house page.
 
 [Back to Top](#top)
 
@@ -181,12 +181,12 @@ Congratulations! :tada: You unblocked all the features in this app!
 There are _seven_ buttons which you can use inside the bank page, their functionality will be introduced in this section.
 
 ### Open account & Delete account
-Each person can open or delete his bank account by clicking these two buttons.
+Each person can open or delete his bank account by clicking these _two_ buttons.
 
 [Back to Top](#top)
 
 ### View owner account & View servant account & View friend account
-Three buttons to view user accounts.
+_Three_ buttons to view user accounts.
 
 If the user does not have an account, it will show some random data indicating the resources is __NOT__ protected.
 
@@ -202,7 +202,7 @@ This is similar to the issue capability in the _Level 02_ feature, and you will 
 [Back to Top](#top)
 
 ### Revoke delegation
-There are two modes to revoke the delegation
+There are _two_ modes to revoke the delegation
 
 1. revoke all the delegations the owner of the account issued (_default_)
 
@@ -211,7 +211,7 @@ There are two modes to revoke the delegation
 [Back to Top](#top)
 
 ## Have fun
-And that's it! That is basic all the functionality of this app, thanks for reading!
+And that's it! That is basic all the functionality of this app, thanks for reading! :dizzy:
 
 Wish you like this app and have fun exploring it! :smile:
 
