@@ -20,7 +20,7 @@
 - [Have Fun](#have_fun)
 
 ## Overview
-This app is a simulate to demonstrate how capability based access control works.
+This app is a simulator to demonstrate how capability based access control works.
 
 ### Main Page More
 In the top right of the main page, you can click "__...__" to view more options, here are some of the options you might want to know:
