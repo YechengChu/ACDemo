@@ -14,6 +14,8 @@
 
 ### Help
 
+#### Online Help
+
 ### Functionality
 
 ### Learn
@@ -33,8 +35,8 @@
 - __whitelist__
   - __add__
     - __without further delegation__
-    - __with further delegation__ 
-  - __remove__ 
+    - __with further delegation__
+  - __remove__
 - __blacklist__
   - __add__
   - __remove__
@@ -61,7 +63,7 @@
   - remove
 - blacklist
   - add
-  - remove 
+  - remove
 - __issue capability__
   - __number of times__
   - __time period__
@@ -91,7 +93,7 @@
   - remove
 - blacklist
   - add
-  - remove 
+  - remove
 - issue capability
   - number of times
   - time period
