@@ -44,6 +44,8 @@ In the top right of the main page, you can click "__...__" to view more options,
 #### About
 Briefly introduces some information about this app.
 
+Click the "__AC Demo__" floating action button will bring you to the home web page of this app.
+
 [Back to Top](#top)
 
 #### Help
