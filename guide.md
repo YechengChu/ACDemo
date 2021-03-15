@@ -44,7 +44,7 @@ In the top right of the main page, you can click "__...__" to view more options,
 #### About
 Briefly introduces some information about this app.
 
-Click the "__AC Demo__" floating action button will bring you to the home web page of this app.
+Clicking the "__AC Demo__" floating action button will bring you to the home web page of this app.
 
 [Back to Top](#top)
 
@@ -103,6 +103,8 @@ The higher the level, the more features will be unblocked.
 
 ## Quiz
 By clicking the __quiz image__ :pencil: in the main page, you would enter the quiz page.
+
+Clicking the "__user__" floating action button at the right bottom of the quiz page will show you the achievements you have got (your current points and current level).
 
 There are _5_ quiz questions in total and you can only progress to next question when you have answered the current one.
 
