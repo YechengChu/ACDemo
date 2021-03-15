@@ -2,12 +2,12 @@
 Here are some demo images of the __ACDemo__ app.
 
 ## Normal Mode (Light Mode)
-- The appearance when the system dark mode is turned off.
+- The appearance when the dark mode of the Android phone is turned off.
 
 <div align=center><img src="images/demo_light.png"/></div>
 
 ## Dark Mode
-- The appearance when the system dark mode is turned on.
+- The appearance when the dark mode of the Android phone is turned on.
 
 <div align=center><img src="images/demo_dark.png"/></div>
 
