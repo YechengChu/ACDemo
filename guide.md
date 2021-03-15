@@ -104,7 +104,7 @@ The higher the level, the more features will be unblocked.
 ## Quiz
 By clicking the __quiz image__ :pencil: in the main page, you would enter the quiz page.
 
-Clicking the "__user__" floating action button at the right bottom of the quiz page will show you the achievements you have got (your current points and current level).
+Clicking the "__user__" floating action button at the right bottom of the quiz page will show you the achievements you have got ( your _current points_ and _current level_ ).
 
 There are _5_ quiz questions in total and you can only progress to next question when you have answered the current one.
 
@@ -113,8 +113,8 @@ By giving the correct answer, you can get _20_ points for each question, otherwi
 Each question can only be answered __ONCE__.
 
 - _Level 01_ : the level you initially in
-- _Level 02_ : get _20_ points (get _1_ correct answer)
-- _Level 03_ : get _60_ points (answer _3_ questions correctly)
+- _Level 02_ : get _20_ points ( get _1_ correct answer )
+- _Level 03_ : get _60_ points ( answer _3_ questions correctly )
 
 [Back to Top](#top)
 
