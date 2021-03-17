@@ -2,9 +2,7 @@
 Here are some demo images of the __ACDemo__ app.
 
 
-
 ## Latest version (Version 2.1)
-
 The appearance of the app remains almost the same as __Version 2.0__. 
 
 Only few changes have been made in this latest version:
@@ -17,20 +15,17 @@ Only few changes have been made in this latest version:
 <div align=center><img src="images/demo_new.png"/></div>
 
 
-
 ## Version 2.0
-
 - There is significant change in the functionality provided. Also, several changes have been made to improve the appearance of the app.
-
 - This version can be downloaded [here](https://github.com/YechengChu/ACDemo/raw/master/ACDemo.apk).
-
 - :warning: Warning: If your phone already installed __Version 1.0__, please _uninstall_ the app, otherwise it will quit when you trying to enter the quiz page !!! :disappointed:
 
-## Normal Mode / Light Mode (Version 2.0)
 
+## Normal Mode / Light Mode (Version 2.0)
 - The appearance when the dark mode of the Android phone is turned off. :sunny:
 
 <div align=center><img src="images/demo_light.png"/></div>
+
 
 ## Dark Mode (Version 2.0)
 - The appearance when the dark mode of the Android phone is turned on. :crescent_moon:
@@ -38,9 +33,7 @@ Only few changes have been made in this latest version:
 <div align=center><img src="images/demo_dark.png"/></div>
 
 
-
 ## Older Version (Version 1.0)
-
 - These images are from an older version of this app.
 - This version is also available [here](https://github.com/YechengChu/ACDemo/raw/master/ACDemo_old.apk).
 - :warning: Note that, in this older version, the quiz part :pencil: has not been implemented yet!
