@@ -20,11 +20,11 @@ The changes are listed below:
 
 ## Version 2.0
 
-There is significant change both in the functionality provided and the appearance of the app.
+- There is significant change in the functionality provided. Also, several changes have been made to improve the appearance of the app.
 
-This version can be downloaded [here](https://github.com/YechengChu/ACDemo/raw/master/ACDemo.apk).
+- This version can be downloaded [here](https://github.com/YechengChu/ACDemo/raw/master/ACDemo.apk).
 
-:warning: Warning: If your phone already installed __Version 1.0__, please _uninstall_ the app, otherwise it will quit when you trying to do quiz !!!
+- :warning: Warning: If your phone already installed __Version 1.0__, please _uninstall_ the app, otherwise it will quit when you trying to do quiz !!!
 
 ## Normal Mode / Light Mode (Version 2.0)
 
