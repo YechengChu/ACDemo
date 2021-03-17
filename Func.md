@@ -2,6 +2,8 @@
 
 ## Main Page
 
+### BGM On/Off
+
 ### Quiz
 
 #### My Achievements
