@@ -28,12 +28,12 @@ Only few changes have been made in this latest version:
 
 ## Normal Mode / Light Mode (Version 2.0)
 
-- The appearance when the dark mode of the Android phone is turned off.
+- The appearance when the dark mode of the Android phone is turned off. :sunrise:
 
 <div align=center><img src="images/demo_light.png"/></div>
 
 ## Dark Mode (Version 2.0)
-- The appearance when the dark mode of the Android phone is turned on.
+- The appearance when the dark mode of the Android phone is turned on. :stars:
 
 <div align=center><img src="images/demo_dark.png"/></div>
 
@@ -43,6 +43,6 @@ Only few changes have been made in this latest version:
 
 - These images are from an older version of this app.
 - This version is also available [here](https://github.com/YechengChu/ACDemo/raw/master/ACDemo_old.apk).
-- :warning: Note that, in this older version, the quiz part has not been implemented yet!
+- :warning: Note that, in this older version, the quiz part :pencil: has not been implemented yet!
 
 <div align=center><img src="images/demo_img_old.png"/></div>
