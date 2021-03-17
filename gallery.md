@@ -7,12 +7,12 @@ Here are some demo images of the __ACDemo__ app.
 
 The appearance of the app remains almost the same as __Version 2.0__. 
 
-The changes are listed below:
+Only few changes have been made in this latest version:
 
-- Add BGM.
-- Compress images used in the app, so apk size reduced from around 40MB to 20MB.
+- Add BGM :musical_note:.
+- Compress images used in the app, so the size of apk​ :package: reduced from around 40MB to around 20MB.
 - Implemented onUpgrade function in Database, so there will not be any exception for quiz when the user update their app directly from __Version 1.0__ to __Version 2.1__.
-- :warning: However, there will still be some problem for the issued capability. Please check the capabilities after installing and revoke those incorrect ones, sorry for that.
+- :warning: However, there is still some problem for the issued _infinite_ capabilities. Please check the capabilities after installing and revoke those incorrect ones, sorry for that :sob:.
 
 <div align=center><img src="images/demo_new.png"/></div>
 
@@ -24,7 +24,7 @@ The changes are listed below:
 
 - This version can be downloaded [here](https://github.com/YechengChu/ACDemo/raw/master/ACDemo.apk).
 
-- :warning: Warning: If your phone already installed __Version 1.0__, please _uninstall_ the app, otherwise it will quit when you trying to do quiz !!!
+- :warning: Warning: If your phone already installed __Version 1.0__, please _uninstall_ the app, otherwise it will quit when you trying to enter the quiz page !!! :disappointed:
 
 ## Normal Mode / Light Mode (Version 2.0)
 
@@ -41,8 +41,8 @@ The changes are listed below:
 
 ## Older Version (Version 1.0)
 
-- These images are from an old version of this app.
+- These images are from an older version of this app.
 - This version is also available [here](https://github.com/YechengChu/ACDemo/raw/master/ACDemo_old.apk).
-- Note that, in this old version the quiz part has not been implemented yet!
+- :warning: Note that, in this older version, the quiz part has not been implemented yet!
 
 <div align=center><img src="images/demo_img_old.png"/></div>
