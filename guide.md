@@ -40,7 +40,7 @@
 This app is a simulator to demonstrate how capability based access control works.
 
 ### BGM
-In the toolbar (<font color=#9300A7>purple bar</font> at the top of main page), click the "__mute__" icon to start BGM.
+In the toolbar (<span style="color:purple">purple bar</span> at the top of main page), click the "__mute__" icon to start BGM.
 
  When the BGM is turned on, you can click the "__music note__" icon at the same position to stop the BGM.
 
