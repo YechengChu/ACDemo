@@ -2,6 +2,7 @@
 
 ## Table of Contents
 - [Overview](#overview)
+  - [BGM](#bgm) 
   - [Main Page More](#main-page-more)
     - [About](#about)
     - [Help](#help)
@@ -38,8 +39,15 @@
 ## Overview
 This app is a simulator to demonstrate how capability based access control works.
 
+### BGM
+In the toolbar (<font color=#9300A7>purple bar</font> at the top of main page), click the "__mute__" icon to start BGM.
+
+ When the BGM is turned on, you can click the "__music note__" icon at the same position to stop the BGM.
+
+[Back to Top](#top)
+
 ### Main Page More
-In the top right of the main page, you can click "__...__" to view more options, here are some of the options you might want to know:
+Next to the "__mute / music note__" icon, you can click "__...__" to view more options, here are some of the options you might want to know:
 
 #### About
 Briefly introduces some information about this app.
