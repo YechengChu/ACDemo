@@ -11,7 +11,7 @@ Only few changes have been made in this latest version:
 
 - Add BGM :musical_note:.
 - Compress images used in the app, so the size of apk​ :package: reduced from around 40MB to around 20MB.
-- Implemented onUpgrade function in Database, so there will not be any exception for quiz when the user update their app directly from __Version 1.0__ to __Version 2.1__.
+- Implemented _onUpgrade_ function for Database, so there will not be any exception for quiz when the user update their app directly from __Version 1.0__ to __Version 2.1__.
 - :warning: However, there is still some problem for the issued _infinite_ capabilities. Please check the capabilities after installing and revoke those incorrect ones, sorry for that :sob:.
 
 <div align=center><img src="images/demo_new.png"/></div>
@@ -28,12 +28,12 @@ Only few changes have been made in this latest version:
 
 ## Normal Mode / Light Mode (Version 2.0)
 
-- The appearance when the dark mode of the Android phone is turned off. :sunrise:
+- The appearance when the dark mode of the Android phone is turned off. :sunny:
 
 <div align=center><img src="images/demo_light.png"/></div>
 
 ## Dark Mode (Version 2.0)
-- The appearance when the dark mode of the Android phone is turned on. :stars:
+- The appearance when the dark mode of the Android phone is turned on. :crescent_moon:
 
 <div align=center><img src="images/demo_dark.png"/></div>
 

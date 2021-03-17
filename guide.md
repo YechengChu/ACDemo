@@ -37,12 +37,12 @@
 - [Have Fun](#have-fun)
 
 ## Overview
-This app is a simulator to demonstrate how capability based access control works.
+This app is a simulator to demonstrate how capability based access control :closed_lock_with_key: works.
 
 ### BGM
-In the toolbar (<span style="color:purple">purple bar</span> at the top of main page), click the "__mute__" icon to start BGM.
+In the toolbar (<span style="color:purple">purple bar</span> at the top of main page), click the "__mute__" icon :mute: to start BGM.
 
- When the BGM is turned on, you can click the "__music note__" icon at the same position to stop the BGM.
+ When the BGM is turned on, you can click the "__music note__" icon :musical_note: at the same position to stop the BGM.
 
 [Back to Top](#top)
 
@@ -52,14 +52,14 @@ Next to the "__mute / music note__" icon, you can click "__...__" to view more o
 #### About
 Briefly introduces some information about this app.
 
-Clicking the "__AC Demo__" floating action button will bring you to the home web page of this app.
+Clicking the "__AC Demo__" floating action button will bring you to the home web page :globe_with_meridians: of this app.
 
 [Back to Top](#top)
 
 #### Help
 Introduces the functionality of this app.
 
-You can always get to the "__Help__" page through the main page by clicking the "__...__" icon and then select the "__Help__" option!
+You can always get to the "__Help__" page :sos: through the main page by clicking the "__...__" icon and then select the "__Help__" option!
 
 To view an _online version_ of the help page, click "__...__" and select "__Online Version__".
 
@@ -155,12 +155,12 @@ You can switch your role, in default, the role is set to be the __[Owner]__.
 [Back to Top](#top)
 
 #### House
-You can click the __house image__, if you have the capability to enter the house, you will directly enter the house.
+You can click the __house image__ :house:, if you have the capability to enter the house, you will directly enter the house.
 
 [Back to Top](#top)
 
 #### Bank
-Go to the bank by clicking the __bank image__, however it's currently blocked, you will need to reach _Level 03_ to unblock this feature.
+Go to the bank by clicking the __bank image__ :bank:, however it's currently blocked, you will need to reach _Level 03_ to unblock this feature.
 
 [Back to Top](#top)
 
@@ -170,14 +170,14 @@ Once you enter the house, you can leave it by clicking the "__leave__" button.
 Note that the Blacklist and Whitelist button can only be used by the __[Owner]__ and the "__issue capability__" function will be unblocked in _next level_.
 
 #### Blacklist
-As the __[Owner]__, you can decide the person to be added into the blacklist, the person in the blacklist will have all their house capability removed.
+As the __[Owner]__, you can decide the person to be added into the blacklist :no_entry:, the person in the blacklist will have all their house capability removed.
 
 You can also find "__blacklist__" option when you select "__...__" on top right of the house page.
 
 [Back to Top](#top)
 
 #### Whitelist
-When you put the person in whitelist as the __[Owner]__, the person would have infinite house capability.
+When you put the person in whitelist :white_check_mark: as the __[Owner]__, the person would have infinite house capability.
 
 When you put a person in the whitelist you could also choose where to allow the person _further delegates_ your house capability.
 
