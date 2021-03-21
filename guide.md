@@ -66,22 +66,22 @@ To view an _online version_ of the help page, click "__...__" and select "__Onli
 [Back to Top](#top)
 
 #### Functionality
-Provides an overview of the functionality of this app, you are strongly recommended to have a look after reading this "__Help__" page.
+Provides an overview of the functionality of this app, you are strongly recommended :thumbsup: to have a look after reading this "__Help__" page.
 
 [Back to Top](#top)
 
 #### Learn
-Gives a short introduction of how you can achieve some capability concepts using this app.
+Gives a short introduction of how you can achieve some capability concepts :books: using this app.
 
 [Back to Top](#top)
 
 #### Reset
-Reset the demo, clear all the data and progresses.
+Reset the demo :leftwards_arrow_with_hook:, clear all the data and progresses.
 
 [Back to Top](#top)
 
 #### Share
-Share this app by sending a text message containing the [website](https://yechengchu.github.io/ACDemo/) where this app can be downloaded and installed on an Android phone.
+Share this app :calling: by sending a text message containing the [website](https://yechengchu.github.io/ACDemo/) where this app can be downloaded and installed on an Android phone.
 
 [Back to Top](#top)
 
@@ -112,7 +112,7 @@ The higher the level, the more features will be unblocked.
 ## Quiz
 By clicking the __quiz image__ :pencil: in the main page, you would enter the quiz page.
 
-Clicking the "__user__" floating action button at the right bottom of the quiz page will show you the achievements you have got ( your _current points_ and _current level_ ).
+Clicking the "__user__" floating action button :bust_in_silhouette: at the right bottom of the quiz page will show you the achievements :trophy: you have got ( your _current points_ and _current level_ ).
 
 There are _5_ quiz questions in total and you can only progress to next question when you have answered the current one.
 
@@ -127,7 +127,7 @@ Each question can only be answered __ONCE__.
 [Back to Top](#top)
 
 ## Level 01
-In _Level 01_, the feature unblocked is the __House__.
+In _Level 01_, the feature unblocked is the __House__ :house:.
 
 ### Functionality Introduction
 There are few buttons you may want to know in the main page:
@@ -194,7 +194,7 @@ One person can not be in the white and black list spontaneously!
 The __capability issuing__ for house is unblocked!
 
 ### Notice
-Note that, from now on, the "__blacklist__" and "__whitelist__" options can only been view when select "__...__" on top right of the house page!
+:warning: ​Note that, from now on, the "__blacklist__" and "__whitelist__" options can only been view when select "__...__" on top right of the house page!
 
 Their functionality remains the same, the only change is that, the previous _two_ buttons will no longer appear at the house page.
 
@@ -226,7 +226,7 @@ Note that, for those people in the whitelist, you have to remove them in the "__
 
 ## Level 03
 
-The __bank__ feature is unblocked!
+The __bank__ :bank: feature is unblocked!
 
 Congratulations! :tada: You unblocked all the features in this app!
 
@@ -263,7 +263,7 @@ There are _two_ modes to revoke the delegation
 [Back to Top](#top)
 
 ## Have fun
-And that's it! :dizzy: That is basic all the functionality of this app, thanks for reading!
+And that's it! :dizzy: That is basic all the functionality of this app, thanks for reading! :cool:
 
 Wish you like this app and have fun exploring it! :smile:
 
