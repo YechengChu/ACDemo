@@ -71,7 +71,8 @@ Provides an overview of the functionality of this app, you are strongly recommen
 [Back to Top](#top)
 
 #### Learn
-Gives a short introduction of how you can achieve some capability concepts :books: using this app.
+
+Teaches some basic access control concepts :books: and operations on capabilities together with their implementation in the House and Bank features
 
 [Back to Top](#top)
 
