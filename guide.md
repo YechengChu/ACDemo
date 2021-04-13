@@ -72,7 +72,7 @@ Provides an overview of the functionality of this app, you are strongly recommen
 
 #### Learn
 
-Teaches some basic access control concepts :books: and operations on capabilities together with their implementation in the House and Bank features
+Teaches :books: some basic access control concepts and operations on capabilities together with their implementation in the House :house: and Bank :bank: features.
 
 [Back to Top](#top)
 
