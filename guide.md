@@ -30,10 +30,10 @@
   - [Issue House Capability](#issue-house-capability)
   - [Revoke House Capability](#revoke-house-capability)
 - [Level 03](#level-03)
-  - [Open account & Delete account](#open-account--delete-account)
-  - [View owner account & View servant account & View friend account](#view-owner-account--view-servant-account--view-friend-account)
-  - [Delegate my account](#delegate-my-account)
-  - [Revoke delegation](#revoke-delegation)
+  - [Open Account & Delete Account](#open-account--delete-account)
+  - [View Owner Account & View Servant Account & View Friend Account](#view-owner-account--view-servant-account--view-friend-account)
+  - [Delegate My Account](#delegate-my-account)
+  - [Revoke Delegation](#revoke-delegation)
 - [Have Fun](#have-fun)
 
 ## Overview
@@ -237,12 +237,12 @@ Congratulations! :tada: You unblocked all the features in this app!
 
 There are _seven_ buttons which you can use inside the bank page, their functionality will be introduced in this section.
 
-### Open account & Delete account
+### Open Account & Delete Account
 Each person can open or delete his bank account by clicking these _two_ buttons.
 
 [Back to Top](#top)
 
-### View owner account & View servant account & View friend account
+### View Owner Account & View Servant Account & View Friend Account
 _Three_ buttons to view user accounts.
 
 If the user does not have an account, it will show some random data indicating the resources is __NOT__ protected.
@@ -251,14 +251,14 @@ If the user has an account, you will need corresponding capability to view his a
 
 [Back to Top](#top)
 
-### Delegate my account
+### Delegate My Account
 The owner of the account can delegate the capability to view his account to other people.
 
 This is similar to the issue capability in the _Level 02_ feature, and you will find that they have the same layout.
 
 [Back to Top](#top)
 
-### Revoke delegation
+### Revoke Delegation
 There are _two_ modes to revoke the delegation
 
 1. revoke all the delegations the owner of the account issued _(default)_
