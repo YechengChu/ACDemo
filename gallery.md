@@ -7,6 +7,8 @@ The appearance of the app remains almost the same as __Version 2.0__.
 
 Only few changes have been made in this latest version:
 - Add BGM :musical_note:.
+- Add the Learn :books: part of the app.
+- Add a [Stranger] character to explicitly show the need to do authentication.
 - Compress images used in the app, so the size of apk​ :package: reduced from around 40MB to around 20MB.
 - Implemented _onUpgrade_ function for Database, so there will not be any exception for quiz when the user update their app directly from __Version 1.0__ to __Version 2.1__.
 - :warning: However, there is still some problem for the issued _infinite_ capabilities. Please check the capabilities after installing and revoke those incorrect ones, sorry for that :sob:.

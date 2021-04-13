@@ -91,8 +91,12 @@ There are _three_ people and _two_ buildings in the scene.
 
 #### People
 - __[Owner]__: the owner of the house
+
 - __[Servant]__: the servant of the __[Owner]__
+
 - __[Friend]__: the friend of the __[Owner]__
+
+_Note_: There is also a __[Stranger]__ who is not authenticated in the scene. The stranger cannot have any capability as he is not authenticated, so he is ignored in the context.
 
 [Back to Top](#top)
 
