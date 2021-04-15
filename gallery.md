@@ -9,9 +9,10 @@ Only few changes have been made in this latest version:
 - Add BGM :musical_note:.
 - Add the Learn :books: part of the app.
 - Add a [Stranger] character to explicitly show the need to do authentication.
+- Add some instruction for capability overview page.
 - Compress images used in the app, so the size of apk​ :package: reduced from around 40MB to around 20MB.
 - Implemented _onUpgrade_ function for Database, so there will not be any exception for quiz when the user update their app directly from __Version 1.0__ to __Version 2.1__.
-- :warning: However, there is still some problem for the issued _infinite_ capabilities. Please check the capabilities after installing and revoke those incorrect ones, sorry for that :sob:.
+- :warning: However, there is still some problem for the issued _infinite_ capabilities if you have already installed __Version 1.0__. Please check the capabilities after installing and revoke those incorrect ones, sorry for that :sob:.
 
 <div align=center><img src="images/demo_new.png"/></div>
 
@@ -22,14 +23,14 @@ Only few changes have been made in this latest version:
 - :warning: Warning: If your phone already installed __Version 1.0__, please _uninstall_ the app, otherwise it will quit when you trying to enter the quiz page !!! :disappointed:
 
 
-## Normal Mode / Light Mode (Version 2.0)
-- The appearance when the dark mode of the Android phone is turned off. :sunny:
+## Normal Theme / Light Theme (Version 2.0)
+- The appearance when the dark theme of the Android phone is turned off. :sunny:
 
 <div align=center><img src="images/demo_light.png"/></div>
 
 
-## Dark Mode (Version 2.0)
-- The appearance when the dark mode of the Android phone is turned on. :crescent_moon:
+## Dark Theme (Version 2.0)
+- The appearance when the dark theme of the Android phone is turned on. :crescent_moon:
 
 <div align=center><img src="images/demo_dark.png"/></div>
 
