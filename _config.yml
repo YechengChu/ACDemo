@@ -2,3 +2,4 @@ theme: jekyll-theme-cayman
 title: AC Demo
 plugins:
   - jemoji
+  - jekyll-seo-tag
