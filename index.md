@@ -4,7 +4,10 @@
 
 - __AC Demo__ is an _Android App_ :iphone: of a simulator to demonstrate how the capability based access control works. It can be _downloaded_ and _installed_ on your Android phone.
 
-- New an [issue](https://github.com/YechengChu/ACDemo/issues/new) on the GitHub :octocat: or [email](mailto:yecheng.chu@student.manchester.ac.uk) me :email: if you have any suggestion for this app or spot any problem!
+- New an [issue](https://github.com/YechengChu/ACDemo/issues/new) on the GitHub :octocat: or [email](mailto:szcyc27@163.com) me :email: if you have any suggestion for this app or spot any problem!
+
+- View :eyes: __AC Demo__ on [Product Hunt](https://www.producthunt.com/products/ac-demo)
+
 
 
 
