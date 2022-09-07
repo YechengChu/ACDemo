@@ -8,8 +8,6 @@
 
 - View :eyes: __AC Demo__ on [Product Hunt](https://www.producthunt.com/products/ac-demo)
 
-
-
-
+<br></br>
 
 <div align=center><img src="images/main_page.png" width="388" height="689"/></div>
